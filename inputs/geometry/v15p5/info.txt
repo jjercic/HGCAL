@@ -1,0 +1,1 @@
+Geometry based on https://gitlab.cern.ch/hgcal-tpg/mapping/-/blob/master/geometry/Geometry.xml?ref_type=heads
